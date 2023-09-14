@@ -1,8 +1,0 @@
-{
-  "folderNotePref": 1,
-  "deleteOutsideNoteWithFolder": false,
-  "indexName": "_about_",
-  "autoRename": true,
-  "folderNoteTemplate": "---\nfolder: \ncssclasses:\n  - cards\n---\n\n```dataview\nTABLE (\"![banner|100](\" + banner + \")\") as banner\nWHERE folder = \"\"\n```\n \n",
-  "logLevel": 4
-}
