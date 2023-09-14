@@ -1,0 +1,22 @@
+{
+  "verseOffset": 0,
+  "prefix": ">",
+  "postfix": "\\n>",
+  "eachVersePrefix": "{n}. ",
+  "linkEndVerse": false,
+  "useInvisibleLinks": true,
+  "linkOnly": false,
+  "newLines": true,
+  "insertSpace": false,
+  "oneVerseNotation": ":",
+  "multipleVersesNotation": ":",
+  "enableMultipleTranslations": false,
+  "translationsPaths": "",
+  "parsedTranslationPaths": [],
+  "translationLinkingType": "all",
+  "linkSeparator": "#",
+  "versePrefix": "",
+  "linkTypePreset": "Basic",
+  "newLinePreset": true,
+  "verifyFilesWhenLinking": false
+}
