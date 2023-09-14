@@ -1,0 +1,36 @@
+{
+  "files": [
+    "Book.md",
+    "Daily.md",
+    "Note.md",
+    "Recipe.md",
+    "Person.md",
+    "Verse.md",
+    "Article.md"
+  ],
+  "templaterFiles": [],
+  "newFileTemplates": [
+    {
+      "folder": "Objects/Books",
+      "path": "Book.md",
+      "plugin": "core"
+    },
+    {
+      "folder": "Objects/People",
+      "path": "Person.md",
+      "plugin": "core"
+    },
+    {
+      "folder": "Objects/Articles",
+      "path": "Article.md",
+      "plugin": "core"
+    },
+    {
+      "folder": "Objects/Recipes",
+      "path": "Recipe.md",
+      "plugin": "core"
+    }
+  ],
+  "openNewFileTemplateInNewPane": false,
+  "useNewFileTemplateOnFileCreation": true
+}

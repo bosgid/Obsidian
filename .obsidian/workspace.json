@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "27ecee3ef5aba593",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c7d89839a90c3fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5560d437889736a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aa28c2919b3dcc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f521ae3e974a1e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4748125ad8398de6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be573f1c6b43fd2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd8e6bb007826de9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14508885bc72399a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "675550546b5dedd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f9a9afeaa430f14",
+        "type": "tabs",
+        "dimension": 55.88235294117647,
+        "children": [
+          {
+            "id": "61c4030a7e994099",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28204a0711b55d45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0013078121cb168",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45580395239a9904",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "60f246d9423ce7d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "5cba07fc939ee72b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "62e922d837c9adde",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d540c2e3b7d2f47b",
+        "type": "tabs",
+        "dimension": 44.11764705882353,
+        "children": [
+          {
+            "id": "942329411457f49b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "6aa28c2919b3dcc7",
+  "lastOpenFiles": [
+    "Objects/Books/Books.md",
+    "Objects/Objects.md",
+    "Storage.md",
+    "Objects/Books/Bible Doctrine Second Edition - Wayne Grudem.md",
+    "The Bible (ESV)/41 - Mark/Mark 12.md",
+    "The Bible (ESV)/41 - Mark/41 - Mark.md",
+    "The Bible (ESV)/The Bible (ESV).md",
+    "The Bible (ESV)/64 - 3 John/64 - 3 John.md",
+    "The Bible (ESV)/01 - Genesis/01 - Genesis.md",
+    "The Bible (ESV)/01 - Genesis/Genesis.md",
+    "Objects/Articles/Articles.md",
+    "The Bible (ESV)/47 - 2 Corinthians/47 - 2 Corinthians.md",
+    "The Bible (ESV)/55 - 2 Timothy/55 - 2 Timothy.md",
+    "The Bible (ESV)/66 - Revelation/66 - Revelation.md",
+    "The Bible (ESV)/65 - Jude/65 - Jude.md",
+    "The Bible (ESV)/63 - 2 John/63 - 2 John.md",
+    "The Bible (ESV)/62 - 1 John/62 - 1 John.md",
+    "The Bible (ESV)/61 - 2 Peter/61 - 2 Peter.md",
+    "The Bible (ESV)/43 - John/43 - John.md",
+    "The Bible (ESV)/60 - 1 Peter/60 - 1 Peter.md",
+    "The Bible (ESV)/59 - James/59 - James.md",
+    "The Bible (ESV)/58 - Hebrews/58 - Hebrews.md",
+    "The Bible (ESV)/57 - Philemon/57 - Philemon.md",
+    "The Bible (ESV)/56 - Titus/56 - Titus.md",
+    "The Bible (ESV)/54 - 1 Timothy/54 - 1 Timothy.md",
+    "The Bible (ESV)/53 - 2 Thessalonians/53 - 2 Thessalonians.md",
+    "Topics/Sourdough/0. Sourdough Process.canvas",
+    "Unconfirmed 910854.crdownload",
+    "The Bible (ESV)/11 - 1 Kings",
+    "Topics/Property",
+    "Topics/Sourdough",
+    "Topics/Faith",
+    "Topics",
+    "The Bible (ESV)/66 - Revelation",
+    "The Bible (ESV)/65 - Jude",
+    "The Bible (ESV)/64 - 3 John",
+    "The Bible (ESV)/63 - 2 John"
+  ]
+}
