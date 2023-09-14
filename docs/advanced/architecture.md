@@ -43,8 +43,8 @@ This question is best answered by tracing what happens when a user (you!) runs `
 
 ## On the client
 
-1. The browser opens a Quartz page and loads the HTML. The `<head>` also links to page styles (emitted to `public/index.css`) and page-critical JS (emitted to `public/prescript.js`)
-2. Then, once the body is loaded, the browser loads the non-critical JS (emitted to `public/postscript.js`)
+1. The browser opens a Quartz page and loads the HTML. The `<head>` also links to page styles (emitted to `online/index.css`) and page-critical JS (emitted to `online/prescript.js`)
+2. Then, once the body is loaded, the browser loads the non-critical JS (emitted to `online/postscript.js`)
 3. Once the page is done loading, the page will then dispatch a custom synthetic browser event `"nav"`. This is used so client-side scripts declared by components can 'setup' anything that requires access to the page DOM.
    1. If the [[SPA Routing|enableSPA option]] is enabled in the [[configuration]], this `"nav"` event is also fired on any client-navigation to allow for components to unregister and reregister any event handlers and state.
    2. If it's not, we wire up the `"nav"` event to just be fired a single time after page load to allow for consistency across how state is setup across both SPA and non-SPA contexts.

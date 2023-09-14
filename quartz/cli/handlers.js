@@ -335,7 +335,7 @@ export async function handleBuild(argv) {
       const serve = async () => {
         const release = await buildMutex.acquire()
         await serveHandler(req, res, {
-          public: argv.output,
+          online: argv.output,
           directoryListing: false,
           headers: [
             {
