@@ -6,10 +6,16 @@
       <description>Last 10 notes on 🔨 Timothy Track</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Bible Doctrine (Second Edition)</title>
+    <link>https://bosgid.github.io/Bible-Doctrine-(Second-Edition)</link>
+    <guid>https://bosgid.github.io/Bible-Doctrine-(Second-Edition)</guid>
+    <description> Info § Author: Wayne Grudem Publication Date: 05 April 2022 Pages: 672 Tags:#faith,#faith/doctrine 1 - Introduction to Systematic Theology § Define systematic theology and discuss its relationship with other theological disciplines (historical theology, philosophical theology, apologetics, Old Testament theology, New Testament theology, and biblical theology).</description>
+    <pubDate>Thu, 14 Sep 2023 17:40:02 GMT</pubDate>
+  </item><item>
     <title>01 - Genesis</title>
     <link>https://bosgid.github.io/The-Bible-(ESV)/01---Genesis/01---Genesis</link>
     <guid>https://bosgid.github.io/The-Bible-(ESV)/01---Genesis/01---Genesis</guid>
-    <description>LIST WHERE contains(Aliases, &quot;Genesis&quot;) SORT number(replace(file.name, &quot;Gen &quot;, &quot;&quot;)) ASC.</description>
+    <description> Genesis 1 § Genesis 2 § Genesis 3 § Genesis 4 § Genesis 5 § Genesis 6 § Genesis 7 § Genesis 8 § Genesis 9 § Genesis 10 § Genesis 11 § Genesis 12 § Genesis 13 § Genesis 14 § Genesis 15 § Genesis 16 § Genesis 17 § Genesis 18 § Genesis 19 § Genesis 20 § Genesis 21 § Genesis 22 § Genesis 23 § Genesis 24 § Genesis 25 § Genesis 26 § Genesis 27 § Genesis 28 § Genesis 29 § Genesis 30 § Genesis 31 § Genesis 32 § Genesis 33 § Genesis 34 § Genesis 35 § Genesis 36 § Genesis 37 § Genesis 38 § Genesis 39 § Genesis 40 § Genesis 41 § Genesis 42 § Genesis 43 § Genesis 44 § Genesis 45 § Genesis 46 § Genesis 47 § Genesis 48 § Genesis 49 § Genesis 50 § .</description>
     <pubDate>Thu, 14 Sep 2023 17:40:13 GMT</pubDate>
   </item><item>
     <title>Gen 1</title>
@@ -58,12 +64,6 @@
     <link>https://bosgid.github.io/The-Bible-(ESV)/01---Genesis/Gen-16</link>
     <guid>https://bosgid.github.io/The-Bible-(ESV)/01---Genesis/Gen-16</guid>
     <description>Genesis 16 § 1 § Now Sarai, Abram’s wife, had borne him no children. She had a female Egyptian servant whose name was Hagar. 2 § And Sarai said to Abram, “Behold now, the LORD has prevented me from bearing children.</description>
-    <pubDate>Thu, 14 Sep 2023 17:40:13 GMT</pubDate>
-  </item><item>
-    <title>Gen 17</title>
-    <link>https://bosgid.github.io/The-Bible-(ESV)/01---Genesis/Gen-17</link>
-    <guid>https://bosgid.github.io/The-Bible-(ESV)/01---Genesis/Gen-17</guid>
-    <description>Genesis 17 § 1 § When Abram was ninety-nine years old the LORD appeared to Abram and said to him, “I am God Almighty; walk before me, and be blameless, 2 § that I may make my covenant between me and you, and may multiply you greatly.</description>
     <pubDate>Thu, 14 Sep 2023 17:40:13 GMT</pubDate>
   </item>
     </channel>
