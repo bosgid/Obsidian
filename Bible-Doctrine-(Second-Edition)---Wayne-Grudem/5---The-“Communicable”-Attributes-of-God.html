@@ -745,7 +745,7 @@
             <h4
               id="why-is-it-appropriate-for-god-to-be-jealous-for-his-own-honour"
             >
-              Why is it appropriate for God to be jealous for his own honour<a
+              Why is it appropriate for God to be jealous for his own honour?<a
                 aria-hidden="true"
                 tabindex="-1"
                 href="#why-is-it-appropriate-for-god-to-be-jealous-for-his-own-honour"
@@ -1296,5 +1296,9 @@
     src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js"
     type="application/javascript"
   ></script>
+  <script type="application/javascript">
+    const socket = new WebSocket('ws://localhost:3001');
+    socket.addEventListener('message', () => document.location.reload());
+  </script>
   <script src="../postscript.js" type="module"></script>
 </html>
